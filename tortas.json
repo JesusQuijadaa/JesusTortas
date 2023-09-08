@@ -1,0 +1,131 @@
+{
+    "tortas": [{
+            "id": 0,
+            "nombre": "Torta Matilda",
+            "precio": "4000",
+            "stock": "Hacé tu pedido antes de las 19 hs y te lo entregamos al día siguiente",
+            "img": "./fotos/matilda.jpg"
+        },
+        {
+            "id": 1,
+            "nombre": "Torta Oreo",
+            "precio": "3500",
+            "stock": "Hacé tu pedido antes de las 19 hs y te lo entregamos al día siguiente",
+            "img": "./fotos/oreo.jpg"
+
+        },
+        {
+            "id": 2,
+            "nombre": "Torta Kinder",
+            "precio": "3500",
+            "stock": "Hacé tu pedido antes de las 19 hs y te lo entregamos al día siguiente",
+            "img": "./fotos/tortakinder.jpg"
+
+        },
+        {
+            "id": 3,
+            "nombre": "Carrot cake",
+            "precio": "2900",
+            "stock": "Hacé tu pedido antes de las 19 hs y te lo entregamos al día siguiente",
+            "img": "fotos/carrot-cake.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "Chaja",
+            "precio": "3900",
+            "stock": "Hacé tu pedido antes de las 19 hs y te lo entregamos al día siguiente",
+            "img": "fotos/chaja.jpg"
+        },
+        {
+            "id": 5,
+            "nombre": "Cheese cake",
+            "precio": "3650",
+            "stock": "Hacé tu pedido antes de las 19 hs y te lo entregamos al día siguiente",
+            "img": "fotos/cheesecake.jpg"
+        },
+        {
+            "id": 6,
+            "nombre": "Cumple chocolatoso",
+            "precio": "3900",
+            "stock": "Hacé tu pedido antes de las 19 hs y te lo entregamos al día siguiente",
+            "img": "fotos/cumple-chocolate.jpg"
+        },
+        {
+            "id": 7,
+            "nombre": "Lemon pie",
+            "precio": "2600",
+            "stock": "Hacé tu pedido antes de las 19 hs y te lo entregamos al día siguiente",
+            "img": "fotos/lemon-pie.jpg"
+        },
+        {
+            "id": 8,
+            "nombre": "Merengon",
+            "precio": "2900",
+            "stock": "Hacé tu pedido antes de las 19 hs y te lo entregamos al día siguiente",
+            "img": "fotos/merengon.jpg"
+        },
+        {
+            "id": 9,
+            "nombre": "Mousse de chocolate",
+            "precio": "2700",
+            "stock": "Hacé tu pedido antes de las 19 hs y te lo entregamos al día siguiente",
+            "img": "fotos/mousse-de-chocolate.jpg"
+        },
+        {
+            "id": 10,
+            "nombre": "Pirineos",
+            "precio": "3100",
+            "stock": "Hacé tu pedido antes de las 19 hs y te lo entregamos al día siguiente",
+            "img": "fotos/pirineos.jpg"
+        },
+        {
+            "id": 11,
+            "nombre": "Red velvet",
+            "precio": "3600",
+            "stock": "Hacé tu pedido antes de las 19 hs y te lo entregamos al día siguiente",
+            "img": "fotos/red-velvet.jpg"
+        },
+        {
+            "id": 12,
+            "nombre": "Tarta de frutillas",
+            "precio": "3000",
+            "stock": "Hacé tu pedido antes de las 19 hs y te lo entregamos al día siguiente",
+            "img": "fotos/tarta-de-frutillas.jpg"
+        },
+        {
+            "id": 13,
+            "nombre": "Tiramisu",
+            "precio": "3150",
+            "stock": "Hacé tu pedido antes de las 19 hs y te lo entregamos al día siguiente",
+            "img": "fotos/tiramisu.jpg"
+        },
+        {
+            "id": 14,
+            "nombre": "Torta 3 leches",
+            "precio": "3200",
+            "stock": "Hacé tu pedido antes de las 19 hs y te lo entregamos al día siguiente",
+            "img": "fotos/torta-3-leches.jpg"
+        },
+        {
+            "id": 15,
+            "nombre": "Alfacookies",
+            "precio": "2000",
+            "stock": "Hacé tu pedido antes de las 19 hs y te lo entregamos al día siguiente",
+            "img": "fotos/alfacookies.jpg"
+        },
+        {
+            "id": 16,
+            "nombre": "Bombones Lindt LINDOR (dulce de leche)",
+            "precio": "1600",
+            "stock": "35",
+            "img": "fotos/BOMBONESDULCEDELECHE.jpg"
+        },
+        {
+            "id": 17,
+            "nombre": "Bombones Lindt LINDOR (surtidos)",
+            "precio": "1600",
+            "stock": "22",
+            "img": "fotos/SURTIDOS.jpg"
+        }
+    ]
+}
